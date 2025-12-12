@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "メランコリー",
+  "base_artist": "Cidergirl",
+  "createdAt": "2025-12-12T12:07:11.527687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イモータル・メランコリー",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/01_イモータル・メランコリー_Epica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メランコリー・フェスタ",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/02_メランコリー・フェスタ_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メランコリー",
+      "artist": "梓みちよ",
+      "has_synced": true,
+      "path": "select/03_メランコリー_梓みちよ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メランコリー・フェスタ",
+      "artist": "Nakamori, Akina",
+      "has_synced": false,
+      "path": "select/04_メランコリー・フェスタ_Nakamori,_Akina.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メランコリー",
+      "artist": "梓みちよ",
+      "has_synced": false,
+      "path": "select/05_メランコリー_梓みちよ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メランコリー・ベイビー feat. 佐々木詩織",
+      "artist": "You & Explosion Band",
+      "has_synced": false,
+      "path": "select/06_メランコリー・ベイビー_feat._佐々木詩織_You_&_Explosion_Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メランコリー",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_01_メランコリー_サイダーガール.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "メランコリー",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_02_メランコリー_サイダーガール.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "メランコリー",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_03_メランコリー_サイダーガール.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "メランコリー",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_04_メランコリー_サイダーガール.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "メランコリー",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_05_メランコリー_サイダーガール.txt"
+    }
+  ]
+}
